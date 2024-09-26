@@ -197,7 +197,7 @@
         <!-- Footer -->
         <div class="legal">
             <div class="copyright">
-                {{$siteInfo->copyright_text}}.
+                Copyright 2024 Zubayer
             </div>
         </div>
         <!-- #Footer -->
