@@ -86,13 +86,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-12">
-                <h2 class="section-heading">Opened Hour</h2>
-                <h3 class="section-sub-heading">Enjoy Our Foods Everyday</h3>
+                <h2 class="section-heading">Working Hour</h2>
+                <h3 class="section-sub-heading">Enjoy Our Foods From 7 Days In a Week</h3>
             </div>
             <div class="col-lg-5 d-lg-block d-md-none">
             <ul class="text-md-center">
-                    <li>Open On -{{date('h:i a',strtotime($siteInfo->opening_time))}}</li>
-                    <li>Close On - {{date('h:i a',strtotime($siteInfo->closing_time))}}</li>
+                    <li>Open On ......... {{date('h:i a',strtotime($siteInfo->opening_time))}}</li>
+                    <li>Close On ......... {{date('h:i a',strtotime($siteInfo->closing_time))}}</li>
                     <li>All Days open</li>
                 </ul>
             </div>

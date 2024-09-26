@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col">
                     <h2 class="section-heading text-center">Login</h2>
-                    <h3 class="section-sub-heading text-center">Welcome Foodie</h3>
+                    <h3 class="section-sub-heading text-center">Welcome back</h3>
                 </div>
             </div>
             <form class="row position-relative" method="POST" id="user-login">
