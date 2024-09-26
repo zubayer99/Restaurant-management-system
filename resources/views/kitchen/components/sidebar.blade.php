@@ -33,7 +33,7 @@
         <!-- Footer -->
         <div class="legal">
             <div class="copyright">
-                Copyright &copy; 2021 - 2022 <a style="color:#2196F3;" href="https://www.yahoobaba.net/">YahooBaba </a>.
+                Copyright &copy; 2024 <a style="color:#2196F3;" href="#">Zubayer Hassan </a>.
             </div>
         </div>
         <!-- #Footer -->
