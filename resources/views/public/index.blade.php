@@ -91,8 +91,8 @@
             </div>
             <div class="col-lg-5 d-lg-block d-md-none">
             <ul class="text-md-center">
-                    <li>Open On ......... {{date('h:i a',strtotime($siteInfo->opening_time))}}</li>
-                    <li>Close On ......... {{date('h:i a',strtotime($siteInfo->closing_time))}}</li>
+                    <li>Open On ... {{date('h:i a',strtotime($siteInfo->opening_time))}}</li>
+                    <li>Close On ... {{date('h:i a',strtotime($siteInfo->closing_time))}}</li>
                     <li>All Days open</li>
                 </ul>
             </div>
